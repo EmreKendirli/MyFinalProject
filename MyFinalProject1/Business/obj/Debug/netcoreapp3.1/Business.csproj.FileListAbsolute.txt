@@ -1,0 +1,17 @@
+C:\Users\EMRE\Desktop\c# projeler\Engin Demiroğ\MyFinalProject1\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+C:\Users\EMRE\Desktop\c# projeler\Engin Demiroğ\MyFinalProject1\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMRE\Desktop\c# projeler\Engin Demiroğ\MyFinalProject1\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\EMRE\Desktop\c# projeler\Engin Demiroğ\MyFinalProject1\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\EMRE\Desktop\c# projeler\Engin Demiroğ\MyFinalProject1\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\EMRE\Desktop\c# projeler\Engin Demiroğ\MyFinalProject1\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\EMRE\Desktop\c# projeler\Engin Demiroğ\MyFinalProject1\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\EMRE\Desktop\c# projeler\Engin Demiroğ\MyFinalProject1\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\EMRE\Desktop\c# projeler\Engin Demiroğ\MyFinalProject1\Business\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\EMRE\Desktop\c# projeler\Engin Demiroğ\MyFinalProject1\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\EMRE\Desktop\c# projeler\Engin Demiroğ\MyFinalProject1\Business\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\EMRE\Desktop\c# projeler\Engin Demiroğ\MyFinalProject1\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\EMRE\Desktop\c# projeler\Engin Demiroğ\MyFinalProject1\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\EMRE\Desktop\c# projeler\Engin Demiroğ\MyFinalProject1\Business\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\EMRE\Desktop\c# projeler\Engin Demiroğ\MyFinalProject1\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\EMRE\Desktop\c# projeler\Engin Demiroğ\MyFinalProject1\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\EMRE\Desktop\c# projeler\Engin Demiroğ\MyFinalProject1\Business\obj\Debug\netcoreapp3.1\Business.pdb
