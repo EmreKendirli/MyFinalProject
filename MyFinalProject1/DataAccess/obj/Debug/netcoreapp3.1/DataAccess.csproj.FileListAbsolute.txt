@@ -13,3 +13,48 @@ C:\Users\EMRE\Desktop\c# projeler\Engin Demiroğ\MyFinalProject1\DataAccess\bin\
 C:\Users\EMRE\Desktop\c# projeler\Engin Demiroğ\MyFinalProject1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
 C:\Users\EMRE\Desktop\c# projeler\Engin Demiroğ\MyFinalProject1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
 C:\Users\EMRE\Desktop\c# projeler\Engin Demiroğ\MyFinalProject1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\DataAccess\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\DataAccess\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\DataAccess\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\DataAccess\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\emrek\Desktop\MyFinalProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\emrek\Desktop\MyFinalProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\emrek\Desktop\MyFinalProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\emrek\Desktop\MyFinalProject\DataAccess\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\emrek\Desktop\MyFinalProject\DataAccess\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\emrek\Desktop\MyFinalProject\DataAccess\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\emrek\Desktop\MyFinalProject\DataAccess\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\emrek\Desktop\MyFinalProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+C:\Users\emrek\Desktop\MyFinalProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrek\Desktop\MyFinalProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\emrek\Desktop\MyFinalProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\emrek\Desktop\MyFinalProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\emrek\Desktop\MyFinalProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\emrek\Desktop\MyFinalProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\emrek\Desktop\MyFinalProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\DataAccess\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\DataAccess\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\DataAccess\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\DataAccess\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb

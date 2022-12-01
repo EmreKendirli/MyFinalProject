@@ -11,3 +11,42 @@ C:\Users\EMRE\Desktop\c# projeler\Engin Demiroğ\MyFinalProject1\Entities\bin\De
 C:\Users\EMRE\Desktop\c# projeler\Engin Demiroğ\MyFinalProject1\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
 C:\Users\EMRE\Desktop\c# projeler\Engin Demiroğ\MyFinalProject1\Entities\obj\Debug\netcoreapp3.1\Entities.dll
 C:\Users\EMRE\Desktop\c# projeler\Engin Demiroğ\MyFinalProject1\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\Entities\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\Entities\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.AssemblyReference.cache
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\emrek\Desktop\MyFinalProject\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\emrek\Desktop\MyFinalProject\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\emrek\Desktop\MyFinalProject\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\emrek\Desktop\MyFinalProject\Entities\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\emrek\Desktop\MyFinalProject\Entities\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\emrek\Desktop\MyFinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.AssemblyReference.cache
+C:\Users\emrek\Desktop\MyFinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrek\Desktop\MyFinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\emrek\Desktop\MyFinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\emrek\Desktop\MyFinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\emrek\Desktop\MyFinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
+C:\Users\emrek\Desktop\MyFinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\emrek\Desktop\MyFinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\Entities\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\Entities\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.AssemblyReference.cache
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\Entities\obj\Debug\netcoreapp3.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\Entities\obj\Debug\netcoreapp3.1\Entities.pdb

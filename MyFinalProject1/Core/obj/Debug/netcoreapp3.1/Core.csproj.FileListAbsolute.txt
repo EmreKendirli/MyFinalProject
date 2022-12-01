@@ -8,3 +8,30 @@ C:\Users\EMRE\Desktop\c# projeler\Engin Demiroğ\MyFinalProject1\Core\bin\Debug\
 C:\Users\EMRE\Desktop\c# projeler\Engin Demiroğ\MyFinalProject1\Core\bin\Debug\netcoreapp3.1\Core.pdb
 C:\Users\EMRE\Desktop\c# projeler\Engin Demiroğ\MyFinalProject1\Core\obj\Debug\netcoreapp3.1\Core.dll
 C:\Users\EMRE\Desktop\c# projeler\Engin Demiroğ\MyFinalProject1\Core\obj\Debug\netcoreapp3.1\Core.pdb
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\emrek\Desktop\Flutter ile Uygulama Geliştirme Kursu  Android & IOS  2022\MyFinalProject\Core\obj\Debug\netcoreapp3.1\Core.pdb
+C:\Users\emrek\Desktop\MyFinalProject\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\emrek\Desktop\MyFinalProject\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\emrek\Desktop\MyFinalProject\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\emrek\Desktop\MyFinalProject\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+C:\Users\emrek\Desktop\MyFinalProject\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrek\Desktop\MyFinalProject\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\emrek\Desktop\MyFinalProject\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\emrek\Desktop\MyFinalProject\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\emrek\Desktop\MyFinalProject\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\emrek\Desktop\MyFinalProject\Core\obj\Debug\netcoreapp3.1\Core.pdb
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\emrek\Desktop\Yeni klasör\MyFinalProject\MyFinalProject1\Core\obj\Debug\netcoreapp3.1\Core.pdb
